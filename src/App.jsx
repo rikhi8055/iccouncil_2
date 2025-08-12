@@ -349,7 +349,7 @@ const SupportPolicies = () => (
       </a>
       <a className="card p-6 card-hover" href="#">
         <div className="flex items-center gap-3 mb-2"><GraduationCap className="w-6 h-6 text-[var(--brand-primary)]"/><h3 className="font-semibold text-lg">Become an Instructor</h3></div>
-        <p className="text-[var(--txt)]">Not a priority right now—moved down here to keep the hero and prime content focused.</p>
+        <p className="text-[var(--txt)]">Are you an experienced professional in the transportation industry? Do you have a passion for teaching and a desire to make a meaningful impact? Join our team of esteemed instructors and help shape the future of transportation through our comprehensive training courses.</p>
       </a>
     </div>
   </section>
